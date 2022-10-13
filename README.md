@@ -1,4 +1,19 @@
-### Hi there 👋
+## hey and welcome to my github page 👽
+i'm a german media informatics student from stuttgart.
+
+<br></br>
+🌱 currently learning...
+- Java 
+- Python
+- Html | Css | JS
+
+<br></br>
+💻 working with...
+- IntelliJ Ultimate
+- PyCharm Professional
+- WebStorm
+- Visual Studio Code
+
 
 <!--
 **robin4smith/robin4smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
