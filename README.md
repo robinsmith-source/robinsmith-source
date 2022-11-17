@@ -8,7 +8,7 @@ i'm a german media informatics student from stuttgart.
 - Html | Css | JS
 
  <a href="#">
-    <img src="pb.gif" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="/Animated PB - robin.#9999.giff" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
   
 <br></br>
