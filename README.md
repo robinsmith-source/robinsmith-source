@@ -7,7 +7,7 @@ i'm a german media informatics student from stuttgart.
 - Python
 - Html | Css | JS
 
-    <img src="Animated PB - robin.#9999.giff" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="Animated PB - robin.#9999.gif" alt="example badge" style="vertical-align:top margin:6px 4px">
   
 <br></br>
 💻 working with...
