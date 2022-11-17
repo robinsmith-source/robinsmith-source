@@ -7,12 +7,15 @@ i'm a german media informatics student from stuttgart.
 - Python
 - Html | Css | JS
 
+ <a href="#">
+    <img src="pb.gif" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+  
 <br></br>
 💻 working with...
 - IntelliJ Ultimate
 - PyCharm Professional
 - WebStorm
-- Visual Studio Code
 
 
 <!--
