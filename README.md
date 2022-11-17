@@ -15,7 +15,7 @@ i'm a german media informatics student from stuttgart.
     
 <br></br>
 💻 working with...
-- IntelliJ Ultimate
+[- IntelliJ Ultimate](https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/jetbrains_intellij.svg)
 - PyCharm Professional
 - WebStorm
 
