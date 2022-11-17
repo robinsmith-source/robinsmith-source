@@ -7,8 +7,8 @@ i'm a german media informatics student from stuttgart.
 - Python
 - Html | Css | JS
 
-    <img src="https://github.com/robinsmith-source/robinsmith-source/blob/f33590910b30d62c3e43db5336ef9fd9b2bc6eaf/Animated%20PB%20-%20robin.%239999.gif" alt="example badge" style="vertical-align:top margin:6px 4px">
-![alt text](https://github.com/robinsmith-source/robinsmith-source/blob/f33590910b30d62c3e43db5336ef9fd9b2bc6eaf/Animated%20PB%20-%20robin.%239999.gif)
+    <img src="https://github.com/robinsmith-source/robinsmith-source/blob/f33590910b30d62c3e43db5336ef9fd9b2bc6eaf/Animated%20PB%20-%20robin.%239999.gif" alt="example badge" style="vertical-align:top margin:6px 4px width:500">
+    
 <br></br>
 💻 working with...
 - IntelliJ Ultimate
