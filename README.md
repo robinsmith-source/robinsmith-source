@@ -8,7 +8,7 @@ i'm a german media informatics student from stuttgart.
 - Html | Css | JS
 
     <img src="/Animated PB - robin.#9999.gif" alt="example badge" style="vertical-align:top margin:6px 4px">
-  ![Bild](/Animated PB - robin.#9999.gif)
+![alt text](https://github.com/[robinsmith-source]/[robinsmith-source]/blob/[main]/Animated PB - robin.#9999.gif?raw=true)
 <br></br>
 💻 working with...
 - IntelliJ Ultimate
