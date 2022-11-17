@@ -3,14 +3,14 @@ i'm a german media informatics student from stuttgart.
 
 <br></br>
 🌱 currently learning...
-<ul style="list-style-type=none">
-    <li><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="JAVA badge" style="vertical-align:left margin:6px 4px"></li>
+
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="JAVA badge" style="vertical-align:left margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/python.svg" alt="Python badge" style="vertical-align:left margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/html.svg" alt="HTML badge" style="vertical-align:left margin:6px 4px">
 - Java 
 - Python
 - Html | Css | JS
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="JAVA badge" style="vertical-align:left margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/python.svg" alt="Python badge" style="vertical-align:left margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/html.svg" alt="HTML badge" style="vertical-align:left margin:6px 4px">
+
 
     
 <br></br>
