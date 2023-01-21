@@ -15,8 +15,7 @@ Skills: JAVA | PYTHON | HTML | CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/robinsmith-source)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](discordapp.com/users/185715869865869313)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:schmidtrobin02@gmail.com)  
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=robinsmith-source&show_icons=true&theme=tokyonight">
-<img src="https://streak-stats.demolab.com/?user=robinsmith-source&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=robinsmith-source&show_icons=true&theme=tokyonight"><img src="https://streak-stats.demolab.com/?user=robinsmith-source&theme=tokyonight">
 </div>
 
 
