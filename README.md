@@ -1,44 +1,24 @@
-<br clear="both">
+# Hi there 👋, my name is Robin 🚀
+<img width ="100%" height ="400px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cebd17f1-b283-45e5-8600-6ec3edc558fd/dee2aqv-222532a7-8676-4788-b8e3-08d4f5be55e2.png/v1/fill/w_1280,h_640,q_80,strp/profile_banner_by_darkfigure4_dee2aqv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvY2ViZDE3ZjEtYjI4My00NWU1LTg2MDAtNmVjM2VkYzU1OGZkXC9kZWUyYXF2LTIyMjUzMmE3LTg2NzYtNDc4OC1iOGUzLTA4ZDRmNWJlNTVlMi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.sdy7FtZ92V4tHXX-hTf0PupZmkD7CQoG-BkmOY0_mQg">
 
-<h1 align="center">Hi There 👋! My name is Robin 🚀</h1>
+I'm Robin, a CS student from Stuttgart [GER]. 
+On my GitHub page, I am sharing my current projects. 
+Don't be afraid texting me, we can create something great together!
 
-###
+Skills: JAVA | PYTHON | HTML | CSS
+
+- 🔭 I’m currently working on this some basic Java Games 
+- 🌱 I’m currently learning Basics of JS Frameworks 
+- 🤔 I’m looking for help with JavaFX 
+
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/robinsmith-source)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](discordapp.com/users/185715869865869313)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:schmidtrobin02@gmail.com)  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=robinsmith-source" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=robinsmith-source" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=robinsmith-source&show_icons=true&theme=tokyonight">
+<img src="https://streak-stats.demolab.com/?user=robinsmith-source&theme=tokyonight">
 </div>
 
-###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="52" alt="css3 logo"  />
-</div>
-
-###
-
-<img align="right" height="260" src="https://public.ph.files.1drv.com/y4mIAqFh8Ky60Zg_bFFIm4sQiXFnhGrXzgnKMJT7Vgn91QtrfmEqc4SUF0S2HElagGa1P3mwFvd4q4aS_nntM5NFYs3Hcfw4ryCGENFFcV0JGL_xVTQ8XGYiou9u5ktMMp36kAg3x_pNnb4pfSiTsX0Vs89mV7Cv2lvLcxJzXrjAi7-Gg9hMjqsZef75t_S-EjJDeF6_HzULdLKDkJTPsg9S55XNH-P2wxhpxVYWyzQ7uE"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/robinsmith-source/robinsmith-source/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <a href="discordapp.com/users/185715869865869313" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="discord logo"  />
-  </a>
-  <a href="mailto:schmidtrobin02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo"  />
-  </a>
-</div>
-
-###
