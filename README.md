@@ -17,20 +17,7 @@
   
 
 <br>  
-<br>  
-
-## Rapidfire  
-- 🔭 I’m currently working on this some basic Java Games 
-  
-
-- 🌱 I’m currently learning Java and Python  
-  
-
-- ❓ Ask me about god and the world  
-
-- 🤔 I’m looking for help with JavaFX 
-  
-<br>  
+<br> 
 
 
 ## Languages and Tools  
